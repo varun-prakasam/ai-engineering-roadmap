@@ -1,4 +1,4 @@
-# AI Engineering - Training Roadmap
+# AI Engineering Roadmap
 
 Curated set of courses that offer the best, most comprehensive and hands-on transition into AI Engineering. It starts from a beginner level, and advances to higher topics.
 
