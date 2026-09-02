@@ -6,7 +6,7 @@ Curated set of courses that offer the best, most comprehensive and hands-on tran
 
 This is not AI-generated slop. I used AI for initial suggestions and search from web, but soon realised there's too much noise.
 
-So I went into each course's syllabus (from a list of 25 courses), tried a few intro lessons, inspected the syllabus details and decided myself on the tier and order.
+So I went into each course's syllabus (from a list of 30 courses), tried a few intro lessons, inspected the syllabus details and decided myself on the tier and order.
 
 ## Time to complete
 
