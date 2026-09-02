@@ -12,7 +12,6 @@ So I went into each course's syllabus (from a list of 25 courses), tried a few i
 
 With dedicated study time daily (~2 hours), and focused attention, you can finish this track in 1 year. You can skip some parts according to your skills / preference/
 
----
 
 ## TIER 1 — FOUNDATIONS
 
@@ -84,7 +83,6 @@ _Self-paced, cheap. Do this first._
 - Notes: Deepest on the model layer — transformer internals in PyTorch, PPO/DPO/ORPO, ZeRO distributed training, QLoRA, KV-caching, continuous batching, vLLM. Application-layer week is dated (LangServe). Bundle with ML Fundamentals at 25% off: [https://learn.theaiedge.io/p/machine-learning-and-llms](https://learn.theaiedge.io/p/machine-learning-and-llms)
 
 
----
 
 ## TIER 2 — FULL-TRACK BOOTCAMPS
 
@@ -110,7 +108,6 @@ _Practical, hands-on, industry-first equivalent of an AI Engineering degree. Nee
 - Notes: Closest instructor to your background (DataTalks.Club / Data Engineering Zoomcamp). Scholarships offered historically.
 
 
----
 
 ## TIER 3 — SPECIALIST DEEP-DIVES [Optional]
 
