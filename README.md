@@ -2,13 +2,13 @@
 
 Curated set of courses that offer the best, most comprehensive and hands-on transition into AI Engineering. It starts from a beginner level, and advances to higher topics.
 
-## Method of curation
+### Method of curation
 
 This is not AI-generated slop. I used AI for initial suggestions and search from web, but soon realised there's too much noise.
 
 So I went into each course's syllabus (from a list of 30 courses), tried a few intro lessons, inspected the syllabus details and decided myself on the tier and order.
 
-## Time to complete
+### Time to complete
 
 With dedicated study time daily (~2 hours), and focused attention, you can finish this track in 1 year. You can skip some parts according to your skills / preference/
 
