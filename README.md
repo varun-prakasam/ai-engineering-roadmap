@@ -12,6 +12,7 @@ So I went into each course's syllabus (from a list of 30 courses), tried a few i
 
 With dedicated study time daily (~2 hours), and focused attention, you can finish this track in 1 year. You can skip some parts according to your skills / preference/
 
+# Learning Curriculum
 
 ## TIER 1 — FOUNDATIONS
 
