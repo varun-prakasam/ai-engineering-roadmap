@@ -12,6 +12,12 @@ So I went into each course's syllabus (from a list of 30 courses), tried a few i
 
 With dedicated study time daily (~2 hours), and focused attention, you can finish this track in 1 year. You can skip some parts according to your skills / preference/
 
+### Cost consideration
+
+To make sure I compile the best roadmap, I stayed blind to cost. My only objective was course syllabus, sub-topics and how good the content delivery is.
+
+Free courses are plenty, but their syllabus and hands-on materials are just not good enough. It's when you pay that you start to see good course quality - feels like taking a class in a Uni Degree.
+
 ---
 
 
