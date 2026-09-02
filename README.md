@@ -27,7 +27,7 @@ Free courses are plenty, but their syllabus and hands-on materials are just not 
 
 _Self-paced, cheap. Do this first._
 
-### 1. Ed Donner — AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents
+### 1. AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents (Ed Donner)
 
 - URL: [https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/)
 - Cost: ~$20 on sale (Udemy discounts constantly — never pay list)
@@ -35,7 +35,7 @@ _Self-paced, cheap. Do this first._
 - Rating: 4.7 · refreshed as of 2026
 - Notes: 8 shipped projects. Buy the _Core_ Track — he sells several similarly-named ones. Assumes Python.
 
-### 2. Ed Donner — AI Engineer Agentic Track: Complete Agent & MCP Course
+### 2. AI Engineer Agentic Track: Complete Agent & MCP Course (Ed Donner)
 
 - URL: [https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/](https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/)
 - Cost: ~$20 on sale
@@ -43,7 +43,7 @@ _Self-paced, cheap. Do this first._
 - Rating: 4.7
 - Notes: 8 projects across OpenAI Agents SDK, CrewAI, LangGraph, AutoGen, MCP. Cheapest framework breadth available.
 
-### 3. Ed Donner — AI Engineer Production Track: Deploy LLMs & Agents at Scale
+### 3. AI Engineer Production Track: Deploy LLMs & Agents at Scale (Ed Donner)
 
 - URL: https://www.udemy.com/course/generative-and-agentic-ai-in-production
 - Cost: ~$20 on sale
@@ -51,7 +51,7 @@ _Self-paced, cheap. Do this first._
 - Rating: 4.7
 - Notes: Deploy AI to AWS, GCP, Azure, Vercel with MLOps, Bedrock, SageMaker, RAG, Agents, MCP: scalable, secure and observable.
 
-### 4. Ed Donner — AI Coder: Complete Claude Code & Coding Agents Course
+### 4. AI Coder: Complete Claude Code & Coding Agents Course (Ed Donner)
 
 - URL: https://www.udemy.com/course/generative-and-agentic-ai-in-production
 - Cost: ~$20 on sale
@@ -103,8 +103,6 @@ _Practical, hands-on, industry-first equivalent of an AI Engineering degree. Nee
 - URL: [https://maven.com/swirl-ai/end-to-end-ai-engineering](https://maven.com/swirl-ai/end-to-end-ai-engineering)
 - Cost: **$2,200**
 - Next cohort: **Oct 19 – Dec 13, 2026** · 8 weeks
-- Rating: **4.9 (107 reviews)** — best on this list
-- Cohort size: not published
 - Load: ~17 hrs/wk (5 live + 7 projects + 5 async)
 - Timing: 3–6 PM UTC = **11 PM – 2 AM SGT** ⚠️
 - Notes: 20 live sessions, 92 lessons, 8 projects, 30+ hrs recorded coding videos, 200+ pages reading, $500 Modal credits, lifetime access, Talent Collective. Prereqs listed in a collapsed FAQ — check before enrolling.
