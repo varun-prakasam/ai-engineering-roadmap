@@ -82,7 +82,7 @@ _Self-paced, cheap. Do this first._
 - Length: Self-paced, varies
 - Notes: Conceptual scaffolding, zero accountability.
 
-### 7. LLM Zoomcamp — Alexey Grigorev / DataTalks.Club
+### 7. LLM Zoomcamp + MLOps Zoomcamp — Alexey Grigorev / DataTalks.Club
 
 - URL: [https://alexeygrigorev.com/courses.html](https://alexeygrigorev.com/courses.html)
 - Cost: Free
