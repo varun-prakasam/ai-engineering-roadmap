@@ -27,6 +27,12 @@ Free courses are plenty, but their syllabus and hands-on materials are just not 
 
 _Self-paced, cheap. Do this first._
 
+### 0. Basics
+- Claude tutorials
+- TTI, TTS, TTV models
+- MCP concept
+- Google ADK
+
 ### 1. AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents (Ed Donner)
 
 - URL: [https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/)
